@@ -4,12 +4,9 @@
   <a href= "mailto: pascal.iversen@fu-berlin.de">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/judith-bernett-164a32214/">
+  <a href="https://www.linkedin.com/in/pascal-iversen/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/judith_bernett">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>
 
 - 🔭 I’m currently working on uncertainty quantification and explainable AI in biomedicine, e.g. drug response prediction
