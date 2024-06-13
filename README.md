@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on uncertainty quantification and explainable AI in biomedicine, e.g. drug response prediction
 - 👯 Collaborations welcome!
-- 😄 Pronouns: he/him
 
 
 ### My Stats :
