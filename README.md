@@ -9,7 +9,8 @@
 
 </div>
 
-- 🔭 I’m currently working on uncertainty quantification and explainable AI in biomedicine, e.g. drug response prediction
+- 🔭 I’m currently interested in on uncertainty quantification and explainable AI in biomedicine, e.g. drug response prediction
+- 🧪 Working on [DrEvalPy](https://github.com/daisybio/drevalpy), a Python library for evaluating drug response models
 - :blush: Collaborations welcome!
 
 
