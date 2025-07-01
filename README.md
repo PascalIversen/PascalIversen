@@ -1,4 +1,4 @@
-## Hi there, I'm Pascal 👋
+## Hi there, I'm Pascal
 
 <div id="badges">
   <a href= "mailto: pascal.iversen@fu-berlin.de">
@@ -9,8 +9,9 @@
 
 </div>
 
-- 🔭 I’m currently interested in on uncertainty quantification and explainable AI in biomedicine, e.g. drug response prediction
-- 🧪 Working on [DrEvalPy](https://github.com/daisybio/drevalpy), a Python library for evaluating drug response models
+-  I’m currently working on uncertainty quantification and explainable AI with applications in biomedicine, e.g. drug response prediction
+-  Working on [DrEvalPy](https://github.com/daisybio/drevalpy), a Python library for evaluating drug response models
+-  Check out our method to detect sources of uncertainty of ML models: [Variance Feature Attribution](https://github.com/DILiS-lab/DroPAU).
 - :blush: Collaborations welcome!
 
 
