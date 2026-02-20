@@ -15,9 +15,6 @@
 - :blush: Collaborations welcome!
 
 
-### My Stats :
-<img align="lefttop" src="https://github-readme-stats.vercel.app/api?username=PascalIversen&show_icons=true&icon_color=63bdbd&text_color=545454&bg_color=d1e6e9&hide_title=false" />  
-
 <p align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=PascalIversen&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"></a>
 </p>
