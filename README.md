@@ -11,7 +11,7 @@
 
 -  I’m interested in uncertainty quantification and explainable AI with applications in biomedicine, e.g. drug response prediction
 -  Working on [DrEvalPy](https://github.com/daisybio/drevalpy), a Python library for evaluating drug response models
--  Also interested in scentific reproducibility: Check my tutorial on how to use coding agents to find problems in scientific code [AuditOwl]{https://github.com/PascalIversen/AuditOwl}
+-  Also interested in scentific reproducibility: Check my tutorial on how to use coding agents to find problems in scientific code [AuditOwl](https://github.com/PascalIversen/AuditOwl)
 -  Check out our method to detect sources of uncertainty of ML models: [Variance Feature Attribution](https://github.com/DILiS-lab/DroPAU).
 - :blush: Collaborations welcome!
 
