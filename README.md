@@ -19,9 +19,3 @@
 <p align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter" title="GitHub Profile Views Counter"><img src="https://komarev.com/ghpvc/?username=PascalIversen&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"></a>
 </p>
-
-### My Skills: 
-<div id="badges">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R Badge"/>
-</div>
